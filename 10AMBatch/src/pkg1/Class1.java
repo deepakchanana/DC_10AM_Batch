@@ -16,6 +16,7 @@ public class Class1
 	protected void tc1()
 	{
 		System.out.println("I am Class1 1st test");
+		System.out.println("I have done the changes in this file");
 	}
 	
 	@Test(priority=0)
