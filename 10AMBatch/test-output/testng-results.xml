@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="75" started-at="2020-03-07T17:51:08Z" finished-at="2020-03-07T17:51:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="75" started-at="2020-03-07T17:51:08Z" finished-at="2020-03-07T17:51:08Z">
+      <class name="pkg1.Class2">
+        <test-method status="PASS" signature="mm()[pri:0, instance:pkg1.Class2@59f99ea]" name="mm" duration-ms="35" started-at="2020-03-07T09:51:08Z" finished-at="2020-03-07T09:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mm -->
+      </class> <!-- pkg1.Class2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
